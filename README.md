@@ -5,7 +5,7 @@
 - 👀 I’m interested in: Everything computing, networking and open-source! 
 - 🌱 I’m currently learning: Docker, GNU/Linux, Networking, Rust and self-hosting!
 - 💞️ I’m looking to collaborate on: nothing yet 
-- 📫 How to reach me: You can find me here, at my blog: https:zac-den.com  or reach out at zac@hot.rr.com! 
+- 📫 How to reach me: You can find me here, at my blog: https:zac-den.com  or reach out at rollio@zac-den.com! 
 
 <!---
 cursed-bot/cursed-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
