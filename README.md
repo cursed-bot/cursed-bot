@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cursed-bot AKA Zachary Gearhart.
--    I am currently 20 years old living in the great state of Texas.
+-    I am currently 21 years old living in the great state of Texas.
 -    I have high-functioning autisim, and while it can make learning new things trickier, I do not let it stop me from trying the best I can! 
 -    I am looking to start a job IT, starting with IT support and maybe working my way up to network admin.
 - 👀 I’m interested in: Everything computing, networking and open-source! 
